@@ -1,0 +1,13 @@
+#+TITLE: Introducation
+* Introducation
+  This repo is used for me to storage the configuration about the Arch.
+** Emacs
+   Emacs 的配置基本没有变化，等到我更加了解 emacs 之后，我会给 emacs 的配置进行优化和在配置。
+** alacritty
+   简单
+** zsh and oh-my-zsh
+   博客又说如何安装，我很少操弄 zsh
+** tmux
+   有时间想起来了给他上传保存，还是花了我一些时间去调节的
+** ranger
+   好玩，对于我的实际用处不是很大。
